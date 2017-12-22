@@ -1,0 +1,8 @@
+#create DCGTestClass
+c DCGTestClass
+v bool mBoolValue
+v int mIntValue
+f void initTestClass
+f bool getBoolValue
+f void setBoolValue bool:aValue
+f void functionMultipleParams bool:aValue int:aValue 
